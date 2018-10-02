@@ -1,1 +1,28 @@
-/* add your CSS here */
+#name {
+    font-weight: bold;
+    padding: 0 10em;
+}
+
+.teacupPig {
+  width: 300px;
+  padding: 0 5em 1em 5em;
+}
+
+.animalFact {
+  font-style: italic;
+}
+
+li {
+  list-style: none;
+}
+
+.animalData {
+    border: 5px solid pink;
+    padding: 5px 5px 5px 5px;
+    position: fixed;
+}
+
+.animalDesc {
+    border: 1px solid blue;
+    padding: 0 5em;
+}
